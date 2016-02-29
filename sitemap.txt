@@ -1,0 +1,52 @@
+skies and universes site map
+==================
+
+data : 
+-------
+
+skies :
+-.-.-.-.
+
+VVDS ($VVDS_DIR)
+VIPERS ($VIPERS_DIR)
+DEEP2 ($DEEP2_DIR)
+Lorca ($LORCA_DIR)
+
+ - photometry
+ - spectra
+ - catalogs
+ - LF ?
+
+universes :
+-.-.-.-.-.-.-.
+
+MultiDark ($MULTIDARK_DIR)
+
+ - box : MD_{0.4 or 1.0 or 2.5 or 4.0}Gpc_Planck
+   - snapshots (Rockstar + merger tree processed snapshots)
+   - lightcones (Sugar constructed lightcones)
+   - mocks (SHAM mocks)
+
+value-added data :
+----------------------
+
+LFmodels ($LFMODELS_DIR)
+ - biblioPoints (from other papers)
+ - data (all LFs converted in a single format)
+ - fits (obtained fits)
+ - plots 
+ - script ()
+
+spectraStacks ($SPECTRASTACKS_DIR)
+ELG_mock ($ELG_MOCK_DIR)
+
+code :
+-------
+
+pySU ($PYSU_DIR)
+
+web pages :
+--------------
+
+SUwebsite ($SUWEBSiTE_DIR)
+
